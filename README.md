@@ -18,6 +18,6 @@ I'm thrilled to present my portfolio website, built with Next.js and Tailwind CS
 
 Building this portfolio website was an exciting journey, allowing me to showcase my skills and projects effectively. I'm proud of the result and eager to continue refining and expanding it in the future.
 
-Check out my portfolio website [here](https://arnab-cell.github.io/My-Portfolio/)!
+Check out my portfolio website [here](https://srijanroy12.github.io/Portfolio-3/)!
 
 Feel free to reach out with any feedback or inquiries. I'd love to hear from you!
